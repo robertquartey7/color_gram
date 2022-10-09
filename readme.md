@@ -1,6 +1,6 @@
 # Color-gram
 # preview of the Movie App
 # Home Page
-![home page](./asset/color-gram.gif)
+![home page](./asserts/color-gram.gif)
 
-t
+
